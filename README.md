@@ -8,6 +8,8 @@
 - 💬 Ask me about **Data Structures and Algorithms**
 
 - 📫 How to reach me **saurabhaneja098@gmail.com**
+- Leetcode Profile **https://leetcode.com/anejasaurabh/**
+- GFG Profile **https://auth.geeksforgeeks.org/user/saurabhaneja46**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
