@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anejagithub&label=Profile%20views&color=0e75b6&style=flat" alt="anejagithub" /> </p>
 
-- 🌱 I’m currently learning **Node.js,MongoDB**
+- 🌱 I’m currently learning **React.js and Java Spring Boot**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
