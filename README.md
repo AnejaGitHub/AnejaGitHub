@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anejagithub&label=Profile%20views&color=0e75b6&style=flat" alt="anejagithub" /> </p>
 
-- 🌱 I’m currently learning **React.js and Java Spring Boot**
+- 🌱 I’m currently learning **React.js and Core Java**
 
-- 💬 Ask me about **Data Structures and Algorithms**
+- 💬 Ask me about **Data Structures and Algorithms, Core Java**
 
 - 📫 How to reach me **saurabhaneja098@gmail.com**
 - Leetcode Profile **https://leetcode.com/anejasaurabh/**
