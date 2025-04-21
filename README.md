@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anejagithub&label=Profile%20views&color=0e75b6&style=flat" alt="anejagithub" /> </p>
 
-- 🌱 I’m currently learning **React.js and Core Java**
+- 🌱 I’m currently learning **Angular, Python and SpringBoot**
 
 - 💬 Ask me about **Data Structures and Algorithms, Core Java**
 
